@@ -1,10 +1,7 @@
-March
+# March
+*By Madison Julius Cawein*
 
-    By Madison Julius Cawein
-
-
-
-    This is the tomboy month of all the year,
+    This is the _tomboy_ month of all the year,
     March, who comes shouting o'er the winter hills,
     Waking the world with laughter, as she wills,
     Or wild halloos, a windflower in her ear.
@@ -18,3 +15,5 @@ March
     And straight the oilets of the little leaves
     Open their eyes in wonder, rows on rows,
     And the first bluebird bugles to the breeze.
+
+http://www.public-domain-poetry.com/madison-julius-cawein/march-11128
